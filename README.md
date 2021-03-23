@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/SleemGroup/myFirstDeployment/_apis/build/status/ajapz.ContosoAir?branchName=master)](https://dev.azure.com/SleemGroup/myFirstDeployment/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
